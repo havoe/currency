@@ -24,7 +24,21 @@
 
 # 目录规划
 
+```.env
 
 .
+├── LICENSE
+├── Makefile
 ├── README.md
+├── app
+├── cmd
+├── config
+├── docs
+├── go.mod
+├── logs
+├── main.go
+├── scripts
 └── tree.md
+
+```
+
