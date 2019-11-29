@@ -8,14 +8,23 @@
 - [ ] gorm  数据库
 - [ ] zerolog 日志工具
 - [ ] crud 自动生成 开发自动生成工具
-    - [ ] dao
-    - [ ] dto
-    - [ ] model
-    - [ ] action
+    - [ ] dao
+    - [ ] dto
+    - [ ] model
+    - [ ] action
 - [ ] gin middleware web服务中间件
-    - [ ] cors
+    - [ ] cors
     - [ ] jwt
 - [ ] util 小助手类
-    - [ ] file 文件类
+    - [ ] file 文件类
     - [ ] os os 流
     - [ ] verify 数据请求验证类
+
+***
+
+# 目录规划
+
+
+.
+├── README.md
+└── tree.md
