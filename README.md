@@ -25,16 +25,23 @@
 # 目录规划
 
 ```.env
-
 .
 ├── LICENSE
 ├── Makefile
 ├── README.md
 ├── app
+│   ├── admin
+│   └── server
 ├── cmd
+│   ├── cobra.go
+│   └── start.go
 ├── config
+│   ├── local.yaml
+│   └── prod.yaml
+├── dir_tree.md
 ├── docs
 ├── go.mod
+├── go.sum
 ├── logs
 ├── main.go
 ├── scripts
